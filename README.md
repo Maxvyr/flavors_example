@@ -1,16 +1,21 @@
 # flutter_flavors
 
-A new Flutter project.
+A simple project for made a example usig flavors ;).
 
-## Getting Started
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
 
-This project is a starting point for a Flutter application.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A72UVP8)
 
-A few resources to get you started if this is your first Flutter project:
+## Pull Request
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- If you want to help for add new API or other, you are welcome ;)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Crypto Tips
+
+![https://i.imgur.com/wuW30D4.png](https://i.imgur.com/wuW30D4.png)
+
+## Contact Me
+
+contact : [pandamydev@gmail.com](mailto:pandamydev@gmail.com)
